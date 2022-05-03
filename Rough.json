@@ -1,0 +1,93 @@
+[
+
+  {
+    "name": "Honda Dio",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/035/medium/Dio-min_2.png?1519738819",
+    "priceHour": 19,
+    "kmlimit": 5,
+    "exkm": 4,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "Honda Activa 4G",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/121/medium/Activa_48-min_2.png?1592300804",
+    "priceHour": 18,
+    "kmlimit": 5,
+    "exkm": 4,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "Honda Activa 5G",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/233/medium/Honda_activa_5G.png?1532687566",
+    "priceHour": 19,
+    "kmlimit": 5,
+    "exkm": 4,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "TVS Ntorq 125",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/257/medium/ntorq2.png?1571407789",
+    "priceHour": 21,
+    "kmlimit": 5,
+    "exkm": 4,
+    "area": "Sadashiva Nagar",
+    "city": "Banglore"
+  },
+  {
+    "name": "Bajaj Pulsar 150",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/016/medium/Bajaj_Pulsar-min_2.png?1519738545",
+    "priceHour": 25,
+    "kmlimit": 10,
+    "exkm": 5,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "Yamaha FZ",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/020/medium/FZ_Version_1.png?1504100292",
+    "priceHour": 22,
+    "kmlimit": 10,
+    "exkm": 5,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "Hero Glamour",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/265/medium/Glamour_125.png?1571327418",
+    "priceHour": 25,
+    "kmlimit": 10,
+    "exkm": 5,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "Royal Enfield Classic 350",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/007/medium/Classic_350-1-min_2.png?1519738687",
+    "priceHour": 47,
+    "kmlimit": 12,
+    "exkm": 5.5,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "Royal Enfield Himalayan",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/014/medium/Himalayan_RE-min_2.png?1519739226",
+    "priceHour": 54,
+    "kmlimit": 12,
+    "exkm": 6,
+    "area": "HSR layout",
+    "city": "Banglore"
+  },
+  {
+    "name": "KTM Duke 200 (ABS)",
+    "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/246/medium/Duke_200_ABS.png?1559098797",
+    "priceHour": 49,
+    "kmlimit": 10,
+    "exkm": 6,
+    "area": "HSR layout",
+    "city": "Banglore"
+  }
+]
