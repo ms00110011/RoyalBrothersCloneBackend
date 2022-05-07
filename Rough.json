@@ -6,8 +6,8 @@
     "priceHour": 19,
     "kmlimit": 5,
     "exkm": 4,
-    "area": "HSR layout",
-    "city": "Banglore"
+    "area": "HSR ",
+    "city": "Pune"
   },
   {
     "name": "Honda Activa 4G",
@@ -16,7 +16,7 @@
     "kmlimit": 5,
     "exkm": 4,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Pune"
   },
   {
     "name": "Honda Activa 5G",
@@ -25,7 +25,7 @@
     "kmlimit": 5,
     "exkm": 4,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Pune"
   },
   {
     "name": "TVS Ntorq 125",
@@ -34,7 +34,7 @@
     "kmlimit": 5,
     "exkm": 4,
     "area": "Sadashiva Nagar",
-    "city": "Banglore"
+    "city": "Mumbai"
   },
   {
     "name": "Bajaj Pulsar 150",
@@ -43,7 +43,7 @@
     "kmlimit": 10,
     "exkm": 5,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Mumbai"
   },
   {
     "name": "Yamaha FZ",
@@ -52,7 +52,7 @@
     "kmlimit": 10,
     "exkm": 5,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Mumbai"
   },
   {
     "name": "Hero Glamour",
@@ -61,7 +61,7 @@
     "kmlimit": 10,
     "exkm": 5,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Mumbai"
   },
   {
     "name": "Royal Enfield Classic 350",
@@ -70,7 +70,7 @@
     "kmlimit": 12,
     "exkm": 5.5,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Mumbai"
   },
   {
     "name": "Royal Enfield Himalayan",
@@ -79,7 +79,7 @@
     "kmlimit": 12,
     "exkm": 6,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Lucknow"
   },
   {
     "name": "KTM Duke 200 (ABS)",
@@ -88,6 +88,6 @@
     "kmlimit": 10,
     "exkm": 6,
     "area": "HSR layout",
-    "city": "Banglore"
+    "city": "Bangalore"
   }
 ]
