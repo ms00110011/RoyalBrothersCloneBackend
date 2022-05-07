@@ -12,6 +12,9 @@ const { SearchBikeLocation } = require("../Controllers/SearchBikeLocation");
 const { Signout } = require("../Controllers/Signout");
 const { SignUp } = require("../Controllers/SignUp");
 const { Login } = require("../Controllers/Login");
+const TokenUser = require("../Controllers/TokenUser");
+const dataExt = require("../midddleware/dataExt");
+
 
 
 app.use(cors())
@@ -25,6 +28,8 @@ app.get("/searchcity/:city", SearchBikeLocation);
 app.post('/login',Login);
 app.post('/signup',SignUp);
 app.put('/signOut',Signout);
+
+app.post('/tokenUser',TokenUser, dataExt)
 
 
 
