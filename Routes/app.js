@@ -18,7 +18,7 @@ const dataExt = require("../midddleware/dataExt");
 
 
 app.use(cors())
-
+app.get('/',bikeController)
 app.get("/search", bikeController);
 app.get("/search/:id", SearchBikeSingle)
 app.get("/searchcity/:city", SearchBikeLocation);
