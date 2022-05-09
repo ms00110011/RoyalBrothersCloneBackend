@@ -40,7 +40,7 @@ async function Login(req, res, next) {
             userDetail
         })
     } else {
-        res.json({ message: "password is not valid" });
+        res.json({status: 'fail', message: "password is not valid" });
     }
 
 }
