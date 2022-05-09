@@ -1,6 +1,6 @@
 const http = require("http");
 const app = require("./Routes/app");
-const connectToDB = require("./DBConnection/mongoDB");
+const connectToDB = require("./DBConnection/MongoDB");
 
 const port = 9008;
 
