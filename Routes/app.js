@@ -14,6 +14,7 @@ const { SignUp } = require("../Controllers/SignUp");
 const { Login } = require("../Controllers/Login");
 const TokenUser = require("../Controllers/TokenUser");
 const dataExt = require("../midddleware/dataExt");
+const { videoJWT } = require("../Controllers/VideoJWT");
 
 
 
@@ -27,7 +28,7 @@ app.get("/searchcityDSC/:city", SearchBikeLocationDSC);
 
 
 
-
+app.post('/videojwt',videoJWT)
 
 
 app.post('/login',Login);
