@@ -9,7 +9,7 @@ class mongo {
 
   createMongoConnection() {
     mongoose.connect(
-      `mongodb+srv://frank-castle:heythere@royalbrothersclone.6soas.mongodb.net/?retryWrites=true&w=majority`
+      `mongodb+srv://frank-castle:heythere@royalbrothersclone.6soas.mongodb.net/RoyalBrothersClone?retryWrites=true&w=majority`
     );
 
     mongoose.connection.once("open", () => {
